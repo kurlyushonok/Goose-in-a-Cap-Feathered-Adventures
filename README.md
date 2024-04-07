@@ -1,4 +1,4 @@
-# Goose in a Cap: Run and Dodge
+# Goose in a Cap: Feathered Adventures
 **Платформа:** Windows
 
 **Язык:** Русский
